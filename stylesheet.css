@@ -1,13 +1,4 @@
 
-.switch {
-  position: relative;
-  display: inline-block;
-  width: 60px;
-  height: 25px;
-}
-
-.switch input {display:block;}
-
 .slider {
   position: absolute;
   cursor: pointer;
