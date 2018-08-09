@@ -6,7 +6,7 @@
   height: 25px;
 }
 
-.switch input {display:none;}
+.switch input {display:block;}
 
 .slider {
   position: absolute;
