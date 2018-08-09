@@ -5,10 +5,16 @@
   width: 60px;
   height: 34px;
 }
-.scale{
+.toggle-scale{
   -ms-transform: scale(0.5, 0.5); /* IE 9 */
   -webkit-transform: scale(0.5, 0.5); /* Safari */
   transform: scale(0.5, 0.5);
+}
+
+.slider-scale{
+  -ms-transform: scale(0.75, 0.75); /* IE 9 */
+  -webkit-transform: scale(0.75, 0.75); /* Safari */
+  transform: scale(0.75, 0.75);
 }
 
 .switch input {display:none;}
