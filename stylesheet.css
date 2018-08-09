@@ -100,3 +100,6 @@ input:checked + .toggle-slider:before {
 .toggle-slider.round:before {
   border-radius: 50%;
 }
+.tableData{  
+  font-size: 8px;
+}
