@@ -122,6 +122,12 @@ input:checked + .toggle-slider:before {
 	font-size:15px;
 	line-height: 0;
 }
+#meepleOptionsSubDivLeft{
+	border-right:1px black;
+}
+#meepleOptionsSubDivRight{
+	border-left:1px black;
+}
 .top{
 	vertical-align: top;
 }
