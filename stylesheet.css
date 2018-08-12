@@ -117,7 +117,6 @@ input:checked + .toggle-slider:before {
 	filter: blur(2px); 
 }
 #meepleOptionsDiv{
-	height: 380px;
 	background-color:gray;
 	font-size:15px;
 	line-height: 0;
