@@ -107,7 +107,7 @@ input:checked + .toggle-slider:before {
    padding:0; margin:0;
 }
 .thin{
-  width:25%;
+  width:15%;
 }
 .blur{
 	-webkit-filter: blur(2px);
