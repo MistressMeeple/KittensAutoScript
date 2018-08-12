@@ -123,12 +123,10 @@ input:checked + .toggle-slider:before {
 	margin-top:-25%;
 }
 #meepleOptionsSubDivLeft{
-	border-right:1px solid black;
 	width:48%;
 	margin: 2px;
 }
 #meepleOptionsSubDivRight{
-	border-left:1px solid black;
 	width:48%;
 	margin: 2px;
 }
