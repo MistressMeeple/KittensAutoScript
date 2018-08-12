@@ -121,6 +121,7 @@ input:checked + .toggle-slider:before {
 	font-size:15px;
 	line-height: 0;
 	margin-top:-25%;
+	width: 70%;
 }
 #meepleOptionsSubDivLeft{
 	width:48%;
